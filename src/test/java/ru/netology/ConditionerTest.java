@@ -97,3 +97,4 @@ class ConditionerTest {
         assertEquals(30, conditioner.getCurrentTemperature());
     }
 }
+
